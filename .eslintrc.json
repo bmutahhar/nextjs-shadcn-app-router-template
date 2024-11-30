@@ -18,7 +18,8 @@
   "ignorePatterns": [
     "postcss.config.js",
     "next.config.mjs",
-    "prettier.config.js"
+    "prettier.config.js",
+    "tailwind.config.js"
   ],
   "plugins": [
     "jsx-a11y",
